@@ -21,7 +21,7 @@ redirect_from:
 I am currently a Ph.D. candidate in Transportation Engineering at Tongji University, supervised by Prof. [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm). My research focuses on social behaviors in driving interactions and human-computer interaction (HCI) technologies for autonomous driving systems.
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/InterHub.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/InterHub.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [InterHub: A Naturalistic Trajectory Dataset with Dense Interaction for Autonomous Driving](https://arxiv.org/abs/2411.18302)
