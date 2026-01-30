@@ -20,6 +20,9 @@ redirect_from:
 # 🌟About Me
 I am currently a Ph.D. candidate in Transportation Engineering at Tongji University, supervised by Prof. [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm). My research focuses on social behaviors in driving interactions and human-computer interaction (HCI) technologies for autonomous driving systems.
 
+# 📈 Google Scholar
+- Total citations: <span id="total_cit">-</span>
+
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/InterHub.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

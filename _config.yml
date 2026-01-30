@@ -8,7 +8,8 @@
 # Site Settings
 title                    : "Xiyan Jiang - Homepage"
 description              : "Ph.D. Candidate at Tongji University"
-repository               : "https://github.com/Jiangxy02"
+# GitHub repo in "OWNER/REPO" format (used by Google Scholar stats fetcher)
+repository               : "Jiangxy02/Jiangxy02.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
