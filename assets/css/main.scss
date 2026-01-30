@@ -10,7 +10,7 @@
  *
 */
 
-@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "vendor/breakpoint/breakpoint"; /* media query mixins */
 @import "variables";
 @import "mixins";
 @import "vendor/susy/susy";
@@ -56,7 +56,7 @@
         width: 100%;
         order: 2;
         img {
-            max-width: 400px;
+            max-width: 300px;
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
         }
@@ -65,26 +65,41 @@
     .paper-box-text{
         max-width: 100%;
         order: 1;
+
+        .paper-title{
+            font-size: 1.25em;
+            font-weight: 700;
+            line-height: 1.25;
+            margin: 0 0 .35em 0;
+        }
     }
     
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
+            width: auto;
+            flex: 0 0 320px;
+            max-width: 320px;
             order: 1;
         }
         
         .paper-box-text{
             justify-content: left;
-            padding-left: 2em;
-            max-width: 60%;
+            padding-left: 1.25em;
+            flex: 1 1 0;
+            max-width: none;
             order: 2;
         }
 
     }
 
 
+}
+
+.page-last-updated{
+    font-size: .85em;
+    color: #888;
+    margin: -.5em 0 1.25em 0;
 }
 
 $scroll_offset : 2em;
